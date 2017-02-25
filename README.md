@@ -1,2 +1,2 @@
 Traffic Mangement using queue sensor
-This project is embedded project. Please see diagram file to understand the program well.
+This project is embedded project. Please first see the diagram file and then program_density file.
